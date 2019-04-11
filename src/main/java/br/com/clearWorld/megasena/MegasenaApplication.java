@@ -9,5 +9,5 @@ public class MegasenaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MegasenaApplication.class, args);
 	}
-
+	
 }
